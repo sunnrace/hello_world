@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-  	@message = "Welcome to the Rails Installer Demo!!!"
+  	@message = "Hello World!!!"
   end
 end
