@@ -1,6 +1,7 @@
 HelloWorld::Application.routes.draw do
   get "welcome/index"
   get "welcome/show"
+  get "welcome/suresh1"
   resources :welcome
 
   # The priority is based upon order of creation:
